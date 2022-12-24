@@ -24,8 +24,9 @@
    font-size:16px;
   }
   ul{
-    margin: 0 10%;
+    display:100%;
     text-align:left;
+    margin: 0 10%;
   
   }
   li::marker {
